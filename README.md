@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lev
+- 👋 Hi, I’m Lev!
 - 👀 I’m interested in all sorts of coding, but mostly related to the data, ETL, and business logic (back-end)
 - 🌱 I’m currently learning Java. I have an upcoming class that heavily utilizes it, and want to be as prepared as possible :)
 
