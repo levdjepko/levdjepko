@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lev!
--  I’m interested in all kinds of Software Engineering. My experience is mostly related to data, ETL, and back-end
--  I enjoy solving tough problems, finding efficient solutions, and optimizing processes!
+-  I’m a Software Engineer. My experience is mostly related to data, ETL, and back-end development, although it's quite broad outside of these domains
+-  I am a problem solver. Finding efficient solutions and optimizing processes is my passion
 
 - 📫 You can reach me on *LinkedIn* (https://www.linkedin.com/in/lev-dzhepko/)
 
