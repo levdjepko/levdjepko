@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lev!
--  I’m a Data Engineer, passionate about data, ETL, and back-end development
+-  I’m a Data Engineer, passionate about data, ETL, and Software Engineering
 -  I am a problem solver. Finding efficient solutions and optimizing processes is my passion
 - 📫 You can reach me on *LinkedIn* (https://www.linkedin.com/in/lev-dzhepko/)
 - My resume should be here: https://resume-levdzhepko-2026d.tiiny.site/
